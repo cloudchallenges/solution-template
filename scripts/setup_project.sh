@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# git config --global push.autoSetupRemote true
-# git config --global --ad safe.directory '*'
-
 if ! command -v cz >/dev/null; then
 	pip install --user pipx
 	pipx install commitizen
