@@ -8,4 +8,4 @@ experimental = true
 idiomatic_version_file_enable_tools = ["python"]
 
 [hooks]
-enter = "bash ./scripts/setup_project.sh"
+enter = "bash ./scripts/enter_project.sh"
