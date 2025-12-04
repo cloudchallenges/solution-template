@@ -166,4 +166,4 @@ See [LICENSE](./LICENSE) for details.
 
 If you find this helpful, consider supporting my work ❤️
 
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge\&logo=github)](https://github.com/sponsors/{{your-username}})
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge\&logo=github)](https://github.com/sponsors/HYP3R00T)
